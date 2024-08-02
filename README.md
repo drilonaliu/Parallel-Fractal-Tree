@@ -10,13 +10,13 @@ assigned. Each of these branches is further divided into two smaller branches,
 continuing this process recursively [@fractal_geometry].
 The first iterations of this fractal are shown in the figure
 
-<p align="center">
-  <img src="images/tree_1.png" width="83" height="90" alt="Iterimi 2">
-  <img src="images/tree_2.png" width="83" height="90" alt="Iterimi 4">
-  <img src="images/tree_3.png" width="83" height="90" alt="Iterimi 7">
-  <img src="images/tree_4.png" width="83" height="90" alt="Iterimi 7">
+<p>
+  <img src="images/tree_1.png" width="200" height="200" alt="Tree 1">
+  <img src="images/tree_2.png" width="200" height="200" alt="Tree 2">
+  <img src="images/tree_3.png" width="200" height="200" alt="Tree 3">
+  <img src="images/tree_4.png" width="200" height="200" alt="Tree 4">
 </p>
-<p align="center"><strong>Rritja e pemës fraktale</strong></p>
+
 
 [\[fig:tree_grow\]](#fig:tree_grow){reference-type="ref"
 reference="fig:tree_grow"}. As the iterations increase, the figure will be obtained
