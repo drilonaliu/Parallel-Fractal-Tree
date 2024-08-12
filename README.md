@@ -34,7 +34,9 @@ $$(x_2 - x_1, y_2 - y_1) = \lambda (c_1 - x_2, c_2 - y_2)$$
 By equating the corresponding coordinates of the pairs listed on both sides
 of the equation we get
 
-$$x_2 - x_1 = \lambda (c_1 - x_2)$$ $$y_2 - y_1 = \lambda (c_2 - y_2)$$
+$$x_2 - x_1 = \lambda (c_1 - x_2)$$ 
+
+$$y_2 - y_1 = \lambda (c_2 - y_2)$$
 
 \
 Solving for $c_1$, $c_2$ we get:
